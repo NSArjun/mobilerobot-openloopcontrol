@@ -116,24 +116,16 @@ if __name__ == '__main__':
 ![robo](./img/robomaster.png)
 <br/>
 ![Screenshot 2024-05-09 201131](https://github.com/NSArjun/mobilerobot-openloopcontrol/assets/148233801/9fc25f41-1544-4407-b7f5-0098f18749e5)
-
 <br/>
-![Screenshot 2024-05-09 201214](https://github.com/NSArjun/mobilerobot-openloopcontrol/assets/148233801/e3284ada-e331-45eb-bfb7-aa78d1a96abb)
-
+![Screenshot 2024-05-09 201214](https://github.com/NSArjun/mobilerobot-openloopcontrol/assets/148233801/9bfb7e5b-3a10-4808-ae54-3732afc8ea20)
 <br/>
-![IMG_20240509_140017125](https://github.com/NSArjun/mobilerobot-openloopcontrol/assets/148233801/e67cf147-b9fa-4821-b003-b191aea0d6ef)
-
+![IMG_20240509_140017125](https://github.com/NSArjun/mobilerobot-openloopcontrol/assets/148233801/ffd8c662-35ea-4a0d-9012-f8e3751f32c8)
 <br/>
 
 ## MobileRobot Movement Video:
 
 ### URL: https://youtu.be/NRl25ggT9eE?si=NyjbeHbuzBTqvv1E
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
-<br/>
-<br/>
-<br/>
 <br/>
 
 ## Result:
