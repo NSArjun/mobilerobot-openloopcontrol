@@ -138,6 +138,6 @@ Thus the python program code is developed to move the mobilerobot in the predefi
 ```
 Mobile Robotics Laboratory
 ARJUN N S (212223230020)
-Department of Artificial Intelligence and Data Science/ Machine Learning
+Department of Artificial Intelligence and Data Science
 Saveetha Engineering College
 ```
